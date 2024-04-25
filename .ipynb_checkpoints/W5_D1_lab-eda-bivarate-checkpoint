@@ -399,6 +399,16 @@
    "source": [
     "sm.qqplot(df['price'], line='s');"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2c5af596-9816-4ede-b9e4-f31f7a2109b3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Solved Lab"
+   ]
   }
  ],
  "metadata": {
